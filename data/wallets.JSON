@@ -1,0 +1,255 @@
+{
+  "whaleWallets": [
+   
+    {
+      "id": 1,
+      "name": "Andre Cronje",
+      "walletAddress": "0x431e81e5dfb5a24541b5ff8762bdef3f32f96354"
+    },
+    {
+      "id": 2,
+      "name": "Tetranode",
+      "walletAddress": "0x9c5083dd4838e120dbeac44c052179692aa5dac5"
+    },
+    {
+      "id": 3,
+      "name": "Messi",
+      "walletAddress": "0xca86d57519dbfe34a25eef0923b259ab07986b71"
+    },
+    {
+      "id": 4,
+      "name": "Sifu",
+      "walletAddress": "0x5dd596c901987a2b28c38a9c1dfbf86fffc15d77"
+    },
+    {
+      "id": 5,
+      "name": "Skull1",
+      "walletAddress": "0x23b922a832b63831fbf04c7a1941943b88b3d0d6"
+    },
+    {
+      "id": 6,
+      "name": "Skull2",
+      "walletAddress": "0x60965f808e23722abd465e5c9e3f2b21ff6ed803"
+    },
+    {
+      "id": 7,
+      "name": "Skull3",
+      "walletAddress": "0x1FafD34DDc10BE3B4c3eE4007712C701F87A95aa"
+    },
+    {
+      "id": 8,
+      "name": "Skull4",
+      "walletAddress": "0x6530ebc94E114898171Df384c17566E1A2cBC9e3"
+    },
+    {
+      "id": 9,
+      "name": "Skull5",
+      "walletAddress": "0xbA7EEBcfbC6FA219F54Ae8c435dcF848FadDE13d"
+    },
+    {
+      "id": 10,
+      "name": "Random Task",
+      "walletAddress": "0x313acece2b6ae4e65259b7c76f34e60512cfb95b"
+    },
+    {
+      "id": 11,
+      "name": "Gainzy",
+      "walletAddress": "0x20B95125f3C5e487C9cad47107431C2089355b17"
+    },
+    {
+      "id": 12,
+      "name": "Gainzy2",
+      "walletAddress": "0x333345727be2ec482baf99a25cb1765cb7b78de6"
+    },
+    {
+      "id": 13,
+      "name": "Neth.eth",
+      "walletAddress": "0xB295faacfE9D72cE8Bd57b8771Bad5Cd031647dC"
+    },
+    {
+      "id": 14,
+      "name": "Alameda",
+      "walletAddress": "0xc5ed2333f8a2c351fca35e5ebadb2a82f5d254c3"
+    },
+    {
+      "id": 15,
+      "name": "Alameda2",
+      "walletAddress": "0x84d34f4f83a87596cd3fb6887cff8f17bf5a7b83"
+    },
+    {
+      "id": 16,
+      "name": "BTRFLY Whale",
+      "walletAddress": "0x134489b826a3a899b8bbe7243f77292f95aa65fa"
+    },
+    {
+      "id": 17,
+      "name": "BlockTower",
+      "walletAddress": "0xaba85673458b876C911CCFF5e3711BCedb3B4F56"
+    },
+    {
+      "id": 18,
+      "name": "Cobie",
+      "walletAddress": "0x2dEa8B167A2a7e602b6C069925B69efBcea902A5"
+    },
+    {
+      "id": 19,
+      "name": "dan_OpenSea",
+      "walletAddress": "0x530cf036ed4fa58f7301a9c788c9806624cefd19"
+    },
+    {
+      "id": 20,
+      "name": "NFT_Ryan",
+      "walletAddress": "0xb6ad61b7558c718269a9129bd9ed9839d88a126a"
+    },
+    {
+      "id": 21,
+      "name": "zhusu",
+      "walletAddress": "0x2e675eeae4747c248bfddbafaa3a8a2fdddaa44b"
+    },
+    {
+      "id": 22,
+      "name": "pranksy",
+      "walletAddress": "0xd387a6e4e84a6c86bd90c158c6028a58cc8ac459"
+    },
+    {
+      "id": 23,
+      "name": "0xSisyphus",
+      "walletAddress": "0xc77fa6c05b4e472feee7c0f9b20e70c5bf33a99b"
+    },
+    {
+      "id": 24,
+      "name": "Pingu.eth",
+      "walletAddress": "0x9acb8ed0c0d1f585c1e2c5cb2ba383aa1f71d5bf"
+    },
+    {
+      "id": 25,
+      "name": "avarice_anon",
+      "walletAddress": "0xbff79922fcbf93f9c30abb22322b271460c6bebb"
+    },
+    {
+      "id": 26,
+      "name": "quantbike",
+      "walletAddress": "0x6fcade9de3ab9a1e57eab1684cf30e2ceba234fb"
+    },
+    {
+      "id": 27,
+      "name": "dev_dot_eth",
+      "walletAddress": "0xc841b289918a1a7559263bc4c78af1ed15dd49c4"
+    },
+    {
+      "id": 28,
+      "name": "beaniemaxi",
+      "walletAddress": "0xabf107de3e01c7c257e64e0a18d60a733aad395d"
+    },
+    {
+      "id": 29,
+      "name": "Vince_Van_Dough",
+      "walletAddress": "0x0f0eae91990140c560d4156db4f00c854dc8f09e"
+    },
+    {
+      "id": 30,
+      "name": "KeyboardMonkey3",
+      "walletAddress": "0xe1d29d0a39962a9a8d2a297ebe82e166f8b8ec18"
+    },
+    {
+      "id": 31,
+      "name": "notsofast",
+      "walletAddress": "0x32cc2ec897f21a77a704e9a7313af6a640c47bb5"
+    },
+    {
+      "id": 32,
+      "name": "rookiexbt",
+      "walletAddress": "0x440631dbdc0753e45241569c6d63552eac8e3130"
+    },
+    {
+      "id": 33,
+      "name": "digitalartchick",
+      "walletAddress": "0x0b8f4c4e7626a91460dac057eb43e0de59d5b44f"
+    },
+    {
+      "id": 34,
+      "name": "ColeThereum",
+      "walletAddress": "0xfe5573c66273313034f7ff6050c54b5402553716"
+    },
+    {
+      "id": 35,
+      "name": "0xGav",
+      "walletAddress": "0x794316614b210acd02f7c88085f2872a8d657d8f"
+    },
+    {
+      "id": 36,
+      "name": "visanews",
+      "walletAddress": "0x98d7bc088fc1e7a2f9b3536fcfbca405f902467e"
+    },
+    {
+      "id": 37,
+      "name": "gmoneyNFT",
+      "walletAddress": "0xf0d6999725115e3ead3d927eb3329d63afaec09b"
+    },
+    {
+      "id": 38,
+      "name": "punk4156",
+      "walletAddress": "0xc352b534e8b987e036a93539fd6897f53488e56a"
+    },
+    {
+      "id": 39,
+      "name": "mevcollector",
+      "walletAddress": "0x5338035c008ea8c4b850052bc8dad6a33dc2206c"
+    },
+    {
+      "id": 40,
+      "name": "trilldeceased",
+      "walletAddress": "0xf983557ec70fbf1a4b1e247af7bf10247e9b69c4"
+    },
+    {
+      "id": 41,
+      "name": "ChineseFiat",
+      "walletAddress": "0x0ae8a421e5cf4775310d6339a4be20552bff7080"
+    },
+    {
+      "id": 42,
+      "name": "GaryVee",
+      "walletAddress": "0x5ea9681c3ab9b5739810f8b91ae65ec47de62119"
+    },
+    {
+      "id": 43,
+      "name": "thechainsmokers",
+      "walletAddress": "0xf96c35c67c3f92ac1396010a334f1416877a1ec4"
+    },
+    {
+      "id": 44,
+      "name": "MikeTyson",
+      "walletAddress": "0x7217bc604476859303a27f111b187526231a300c"
+    },
+    {
+      "id": 45,
+      "name": "icebergy_",
+      "walletAddress": "0xed6b3dc95e6e41156cde61a206668935d7e958a4"
+    },
+    {
+      "id": 46,
+      "name": "Pentosh1",
+      "walletAddress": "0x41a958D63e1FD5A0b106BEe94DEDCc242Fd25644"
+    },
+    {
+      "id": 47,
+      "name": "crypto888crypto",
+      "walletAddress": "0x0a2542a170aa02b96b588aa3af8b09ab22a9d7ac"
+    },
+    {
+      "id": 48,
+      "name": "LoganPaul",
+      "walletAddress": "0xff0bd4aa3496739d5667adc10e2b843dfab5712b"
+    },
+    {
+      "id": 49,
+      "name": "Nate_Rivers",
+      "walletAddress": "0x54b174179ae825ed630da40b625bb3c883cd40ae"
+    },
+    {
+      "id": 50,
+      "name": "Path",
+      "walletAddress": "0x1d4B9b250B1Bd41DAA35d94BF9204Ec1b0494eE3"
+    }
+  ]
+}
