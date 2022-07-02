@@ -8,7 +8,6 @@ import {
   useMoralisSubscription,
 } from "react-moralis";
 
-import { useNotification } from "web3uikit";
 
 const CustomMoralisContext = createContext();
 
@@ -25,7 +24,6 @@ export function MoralisContextProvider({ children }) {
     account,
   } = useMoralis();
   const { chainId } = useChain();
-  const dispatch = useNotification();
   const { runContractFunction } = useWeb3Contract();
   
   
@@ -48,7 +46,6 @@ export function MoralisContextProvider({ children }) {
     account,
     chainId,
     runContractFunction,
-    dispatch,
     useMoralisSubscription,
   };
 
