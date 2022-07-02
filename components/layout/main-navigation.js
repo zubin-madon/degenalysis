@@ -11,7 +11,7 @@ function MainNavigation() {
            <nav className="flex align-middle items-center">
         {navLinks.map((link, index) => {
           return (
-              <div className="pr-5 pl-5 text-xl">
+              <div className="pr-5 pl-5 text-xl" key={index}>
             <ul className= {`${open ? 'flex-row':'hidden'}`}>
               <Link href={link.path}>
                 <li className="text-white" key={index}>{link.name}</li>
